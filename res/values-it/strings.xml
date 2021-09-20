@@ -115,4 +115,10 @@
     <string name="fingerprint_sleep_summary">Premi il sensore d\'impronte digitali per sospendere il dispositivo</string>
     <string name="high_touch_sensitivity_title">Alta sensibilità al tocco</string>
     <string name="high_touch_sensitivity_summary">Aumenta la sensibilità del touchscreen per l\'utilizzo con i guanti</string>
+    <string name="quick_charge_title">Ricarica rapida</string>
+    <string name="quick_charge_summary">Attiva/Disattiva la ricarica rapida. Scollega e ricollega il caricatore dopo aver modificato quest\'impostazione.</string>
+    <string name="camera_focus_fix_title">Fissa il fuoco della fotocamera</string>
+    <string name="camera_focus_fix_summary">Abilita se hai problemi con la messa a fuoco della fotocamera</string>
+    <string name="wake_on_gesture_title">Attiva con gesti</string>
+    <string name="wake_on_gesture_summary">Attiva il dispositivo invece che mostrare le notifiche agli eventi di gesto</string>
 </resources>
