@@ -72,7 +72,6 @@
     <string name="hand_wave_gesture_flat_summary">Показывать уведомления только тогда, когда телефон лежит на плоской поверхности экраном вверх</string>
     <string name="pick_up_gesture_title">Поднять</string>
     <string name="pick_up_gesture_summary">Отображать уведомления при поднятии устройства</string>
-    <string name="pick_up_wake_gesture_summary">Пробуждать устройство при поднятии</string>
     <string name="pocket_gesture_title">Карман</string>
     <string name="pocket_gesture_summary">Отображать уведомления при извлечении устройства из кармана</string>
     <string name="proximity_wake_title">Включение по датчикам</string>
@@ -122,5 +121,5 @@
     <string name="camera_focus_fix_title">Исправить фокусировку камеры</string>
     <string name="camera_focus_fix_summary">Включите, если у вас есть проблемы с фокусировкой камеры</string>
     <string name="wake_on_gesture_title">Пробуждение жестами</string>
-    <string name="wake_on_gesture_summary">Пробуждение устройства вместо уведомлений при использовании жестов</string>
+    <string name="wake_on_gesture_summary">Пробуждение устройства вместо пульсации уведомлений при использовании жестов</string>
 </resources>

@@ -25,5 +25,6 @@
     <string name="action_launch_camera">Стартувај камера</string>
     <string name="feedback_intensity_none">Оневозможено</string>
     <string name="dialog_ok">ОК</string>
+    <string name="disabled">Оневозможено</string>
     <string name="doze_settings_help_title">Помош</string>
 </resources>

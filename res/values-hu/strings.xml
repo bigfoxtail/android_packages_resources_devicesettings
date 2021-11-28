@@ -72,7 +72,6 @@
     <string name="hand_wave_gesture_flat_summary">Értesítések felvillantása csak akkor, ha a telefon kijelzővel felfelé fekszik sima felületen</string>
     <string name="pick_up_gesture_title">Kézbevétel</string>
     <string name="pick_up_gesture_summary">Értesítések felvillantása kézbevételkor</string>
-    <string name="pick_up_wake_gesture_summary">Készülékébresztés felemeléskor</string>
     <string name="pocket_gesture_title">Zseb</string>
     <string name="pocket_gesture_summary">Értesítések felvillantása zsebből való kivételkor</string>
     <string name="proximity_wake_title">Közelség ébresztés</string>

@@ -65,6 +65,7 @@
     <string name="feedback_intensity_medium">ಮಾಧ್ಯಮ</string>
     <string name="feedback_intensity_high">ಅಧಿಕ</string>
     <string name="dialog_ok">ಸರಿ</string>
+    <string name="disabled">ನಿಷ್ಕ್ರಿಯಗೊಂಡಿದೆ</string>
     <string name="doze_settings_help_title">ಸಹಾಯ</string>
     <string name="button_panel_title">ಹೆಚ್ಚುವರಿ ಗುಂಡಿಗಳು</string>
     <string name="fingerprint_pocketmode_title">ಆಕಸ್ಮಿಕವಾಗಿ ಎಚ್ಚರವಾಗುವಿಕೆಯನ್ನು ತಡೆ</string>

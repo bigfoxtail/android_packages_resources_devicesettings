@@ -72,6 +72,7 @@
     <string name="hand_wave_gesture_flat_summary">Pulseeri ainult siis, kui telefon on ekraaniga suunatud alla poole</string>
     <string name="pick_up_gesture_title">Tõsta üles</string>
     <string name="pick_up_gesture_summary">Kuva teavitusi seadme tõstmisel</string>
+    <string name="pick_up_wake_gesture_summary">Ärata seade ülestõstuga</string>
     <string name="pocket_gesture_title">Tasku</string>
     <string name="pocket_gesture_summary">Näita teavitusi taskust välja võtmisel</string>
     <string name="proximity_wake_title">Läheduse äratus</string>
@@ -99,6 +100,7 @@
     <string name="feedback_intensity_medium">Keskmine</string>
     <string name="feedback_intensity_high">Kõrge</string>
     <string name="dialog_ok">OK</string>
+    <string name="disabled">Keelatud</string>
     <string name="doze_settings_help_title">Abi</string>
     <string name="doze_settings_help_text">Need funktsioonid kasutavad anduri sündmusi, et käivitada mingi teateimpulss. Valitud andur on lubatud ainult siis, kui seade saab teate, mis aitab vähendada aku kasutamist. Samuti on võimalik valida valitud andur niipea, kui ekraan välja lülitub, mis suurendab aku kasutamist.</string>
     <string name="button_panel_title">Täiendavad nupud</string>

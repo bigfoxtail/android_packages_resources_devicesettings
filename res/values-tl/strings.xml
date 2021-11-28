@@ -40,6 +40,7 @@
     <string name="feedback_intensity_medium">Ang kaayusan</string>
     <string name="feedback_intensity_high">Mataas</string>
     <string name="dialog_ok">OK</string>
+    <string name="disabled">Hindi pinagana</string>
     <string name="doze_settings_help_title">Tulong</string>
     <string name="button_panel_title">Karagdagang mga pindutan</string>
     <string name="fingerprint_pocketmode_title">Pigilan ang aksidenteng paggising</string>
