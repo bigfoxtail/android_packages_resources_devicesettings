@@ -16,7 +16,8 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="switch_bar_off">ଅଫ୍</string>
+    <string name="switch_bar_on">ଚାଲୁ</string>
+    <string name="switch_bar_off">ବନ୍ଦ</string>
     <string name="device_settings_app_name">ବିକଶିତ ସେଟିଙ୍ଗ୍ସ</string>
     <string name="screen_gestures_panel_title">ଅଙ୍ଗଭଙ୍ଗୀ</string>
     <string name="touchscreen_gesture_extras">ବୃହତ୍ତର</string>
@@ -34,6 +35,10 @@
     <string name="touchscreen_w_gesture_summary">ବ୍ରାଉଜର୍ ଆପ୍ ଖୋଲିବା ପାଇଁ ଏକ \"W\" ଆଙ୍କନ୍ତୁ</string>
     <string name="touchscreen_z_gesture_title">ଫ୍ଲାସଲାଇଟ୍</string>
     <string name="touchscreen_z_gesture_summary">ଫ୍ଲାସ୍‍ଲାଇଟ୍‍ ଟୋଗଲ୍‍ କରିବା ପାଇଁ ଏକ \"Z\" ଆଙ୍କନ୍ତୁ</string>
+    <string name="touchscreen_swipe_up_title">ଉପରକୁ ସ୍ଵାଇପ୍ କଲେ</string>
+    <string name="touchscreen_swipe_right_title">ଡାହାଣକୁ ସ୍ଵାଇପ୍ କଲେ</string>
+    <string name="touchscreen_swipe_down_title">ତଳକୁ ସ୍ଵାଇପ୍ କଲେ</string>
+    <string name="touchscreen_swipe_left_title">ବାମକୁ ସ୍ଵାଇପ୍ କଲେ</string>
     <string name="user_aware_display_title">ଉପଭୋକ୍ତା-ସଚେତନ ଡିସ୍‍ପ୍ଲେ</string>
     <string name="user_aware_display_summary">ଡିସ୍‍ପ୍ଲେର ସାମନାରେ ଜଣେ ଉପଭୋକ୍ତା ଥିବା ସମୟରେ ସ୍କ୍ରିନ୍‍କୁ ଅନ୍‍ ରଖନ୍ତୁ</string>
     <string name="ambient_display_title">ଏମ୍ବିଏଣ୍ଟ ପ୍ରଦର୍ଶନ</string>
@@ -55,6 +60,8 @@
     <string name="feedback_intensity_low">କମ୍</string>
     <string name="feedback_intensity_medium">ମଧ୍ୟମ</string>
     <string name="feedback_intensity_high">ଉଚ୍ଚ</string>
+    <string name="dialog_ok">ଠିକ୍ ଅଛି</string>
+    <string name="doze_settings_help_title">ସହାୟତା</string>
     <string name="fingerprint_pocketmode_title">ର୍ଆକ୍ସିଡେଂଟାଲ୍‍ ୱେକ୍‍-ଅପ୍‍ ପ୍ରତିରୋଧ କରନ୍ତୁ</string>
     <string name="high_touch_sensitivity_title">ଅଧିକ ସ୍ପର୍ଶ ତୀବ୍ରତା</string>
     <string name="high_touch_sensitivity_summary">ଟଚ୍‍ସ୍କ୍ରିନ୍‍ ତୀବ୍ରତା ବଢାନ୍ତୁ ଯାହା ଫଳରେ ତାହା ଗ୍ଲୋବ୍ସ ପିଂଧିବା ସମୟରେ ବ୍ୟବହାର କରାଯାଇପାରିବ</string>
